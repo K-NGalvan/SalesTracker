@@ -16,3 +16,8 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+This program will use arrays to store and process monthly sales as well as compute average yearly sales, total sales for 
+the year, and which month had the highest sales and which month had the lowest sales.  
+
+
